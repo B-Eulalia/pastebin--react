@@ -1,0 +1,77 @@
+.App {
+  text-align: center;
+}
+ body {
+   background-color:rgb(224, 222, 222);
+   font-size: 20px;
+ }
+.navbar {
+  box-sizing:content-box;
+  display: block;
+  background-color:rgb(43, 41, 41);
+  padding: 10px;
+  text-align: left;
+}
+.input {
+  font-size:15px;
+  padding: 5px 20px;
+  text-emphasis: none;
+  border-color: darkgreen;
+}
+.home {
+  height: 0;
+  padding: 10px;
+  font-size:20px;
+  text-align: center;
+  padding: 0px 20px;
+  text-decoration: none;
+}
+.list {
+  height: 20;
+  padding: 10px;
+  font-size:20px;
+  text-align: center;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+.login {
+  height: 20;
+  padding: 10px;
+  font-size:20px;
+  text-align: center;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+.singup {
+  height: 20;
+  padding: 10px;
+  font-size:20px;
+  text-align: center;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+.doc {
+  background-color:lightgoldenrodyellow;
+  height: 20;
+  padding: 20;
+  text-align:center;
+  text-decoration: none;
+}
+button {
+ background-color: green;
+ border-color: rgb(29, 196, 29);
+ color:white;
+ text-align: center;
+ text-decoration: none;
+ display: inline-block;
+ font-size: 16px;
+ margin: 10px 3px;
+ cursor: pointer;
+}
+.typeLink {
+  color:darkorchid;
+  content: none;
+  background: none;
+  border: none;
+}
+
